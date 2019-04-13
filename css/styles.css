@@ -46,14 +46,6 @@ a {
 a:hover {
   color: #EAF6F6;
 }
-.nav-item {
-  padding: 0 20px;
-  float:right;
-}
-
-.navbar {
-  padding: 0 0 2.5rem;
-}
 
 .top-container {
   background-color: #E4F9F5;
@@ -70,7 +62,7 @@ a:hover {
   padding: 50px 0 20px;
 }
 
-.skill-title {
+.skill-title,.tool-title {
   line-height: 2;
   display:inline-block;
 }
